@@ -1,6 +1,6 @@
 #! /usr/bin/sh
 
-swiftc main.swift -o las &
+swiftc main.swift -o backupTool &
 pid=$!
 
 spinner='-/|\'
