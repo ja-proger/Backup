@@ -1,6 +1,9 @@
 # VolBack
 VolBack is a framework to calculate backup volumes
 BackupTool is available as a source code in Swift, TypeScript and Rust OR as an SwiftUI App for macOS.
+
+- Note:
+
 ## License
 
 ## Installation
